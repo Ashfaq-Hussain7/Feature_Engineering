@@ -121,8 +121,10 @@ Run the Python script or Jupyter notebook to explore the complete pipeline.
 ## 📂 Project Structure
 
 Copy
+
 Edit
 .
+
 ├── heart.csv
 
 ├── iris_pca_lda.py
