@@ -125,5 +125,8 @@ Edit
 ├── iris_pca_lda.py
 ├── eda_analysis.py
 ├── README.md
-👨‍💻 Author
+## 👨‍💻 Author
+
+**ASHFAQ HUSSAIN M S** – [ashfaqmhs007@gmail.com]([https://github.com/your-github](https://github.com/Ashfaq-Hussain7))  
 Created with ❤️ using Python, NumPy, Scikit-Learn, and Matplotlib.
+
