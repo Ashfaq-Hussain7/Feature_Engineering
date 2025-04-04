@@ -26,6 +26,7 @@ Performed using `pandas`, `seaborn`, and `matplotlib`.
 ```python
 sns.heatmap(df.corr(), annot=True, cmap="coolwarm")
 sns.boxplot(data=df)
+```
 📈 2. Evaluation Metrics
 🟠 Classification:
 Confusion Matrix
