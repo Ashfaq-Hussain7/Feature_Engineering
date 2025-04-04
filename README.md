@@ -27,7 +27,8 @@ Performed using `pandas`, `seaborn`, and `matplotlib`.
 sns.heatmap(df.corr(), annot=True, cmap="coolwarm")
 sns.boxplot(data=df)
 ```
-##📈 2. Evaluation Metrics
+
+## 📈 2. Evaluation Metrics
 🟠 Classification:
 Confusion Matrix
 
@@ -56,7 +57,7 @@ Relative MSE
 
 Coefficient of Variation (CV)
 
-##🔄 3. Cross-Validation Techniques
+## 🔄 3. Cross-Validation Techniques
 Implemented using scikit-learn:
 
 Stratified k-Fold Cross-Validation
@@ -69,7 +70,7 @@ python
 Copy
 Edit
 from sklearn.model_selection import StratifiedKFold, LeaveOneOut, RepeatedStratifiedKFold
-##🧪 4. Outlier Detection Methods
+## 🧪 4. Outlier Detection Methods
 ✅ Techniques Used:
 Interquartile Range (IQR) Method
 
@@ -85,7 +86,7 @@ Edit
 from sklearn.neighbors import LocalOutlierFactor
 These methods identify anomalous data points based on statistical and density-based criteria.
 
-##🌺 5. PCA and LDA on Iris Dataset
+## 🌺 5. PCA and LDA on Iris Dataset
 ✅ Dimensionality Reduction Techniques:
 📌 Principal Component Analysis (PCA)
 Unsupervised technique
@@ -117,7 +118,8 @@ Edit
 pip install numpy pandas scikit-learn matplotlib seaborn
 Run the Python script or Jupyter notebook to explore the complete pipeline.
 
-##📂 Project Structure
+## 📂 Project Structure
+
 Copy
 Edit
 .
